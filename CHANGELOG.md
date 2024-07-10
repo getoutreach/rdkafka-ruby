@@ -1,3 +1,6 @@
+# 0.10.1
+- [Fix] Switch to local release of librdkafka to mitigate its unavailability.
+
 # 0.10.0
 * Upgrade librdkafka to 1.5.0
 * Add error callback config
